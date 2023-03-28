@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Анна Соломонова](https://up.htmlacademy.ru/adaptive/28/user/2313423).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Ефимов](https://htmlacademy.ru/profile/efiand).
 
 ---
 
